@@ -1,4 +1,8 @@
-print("Hello")
-print("My name is maya ")
+def hello():
+    """
+    this is a docstring
+    """
+    return "Hello"
 
-#this is a comment
+
+hello()
